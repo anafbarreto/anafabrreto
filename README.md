@@ -9,7 +9,9 @@
     <li>  🎓 Análise e desenvolvimento de sistemas </li>
     <li>  🏠 São Paulo - SP </li>
     <li>  💻 Bootcamp Back-End WoMakersCode Python/Django </li>
-    <li>  💻 Programa ONE - Oracle Next Education </li>
+    <li>  💻 Programa ONE - Oracle Next Education </li>   
+    <li>  📃 <a href="https://dev.to/anafbarreto"> Dev.to</a></li>
+
 </ul>
     
 
