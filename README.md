@@ -16,7 +16,7 @@ Artigos publicados no <a href="https://dev.to/anafbarreto"> Dev.to</a>.
 <br>
 
 Meu portfólio com projetos pessoais: <br>
-<a href="https://github.com/anafbarreto">
+<a href="https://github.com/anafbarretoprojects">
     <img src="https://github.com/user-attachments/assets/f58f91d5-79f4-4c1f-88a9-f90827b379cc" alt="Github" width="150">
 </a>
 
