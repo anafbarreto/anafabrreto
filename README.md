@@ -4,6 +4,7 @@
 Repositório acadêmico.
 
   <ul style="margin-top: 0px">
+    <li>  🐍 Desenvolvedora Python.
     <li>  🎓 Análise e desenvolvimento de sistemas </li>
     <li>  💻 Bootcamp Back-End WoMakersCode Python/Django </li>
     <li>  💻 Programa ONE - Oracle Next Education </li>   
